@@ -151,3 +151,4 @@ C:\Workspace\DotNet\AspNetCoreRestSqlSvr\AspNetCoreRestSqlSvr\bin\Debug\netcorea
 C:\Workspace\DotNet\AspNetCoreRestSqlSvr\AspNetCoreRestSqlSvr\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Workspace\DotNet\AspNetCoreRestSqlSvr\AspNetCoreRestSqlSvr\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\Workspace\DotNet\AspNetCoreRestSqlSvr\AspNetCoreRestSqlSvr\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Workspace\DotNet\AspNetCoreRestSqlSvr\AspNetCoreRestSqlSvr\obj\Debug\netcoreapp3.1\AspNetCoreRestSqlSvr.csprojAssemblyReference.cache
